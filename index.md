@@ -1,7 +1,7 @@
 Aox es una distribución Linux derivada de [Arch](https://archlinux.org/) para computadoras [x86_64](https://es.wikipedia.org/wiki/X86-64), su principal objetivo es brindar un escritorio de trabajo limpio con aplicaciones necesarias para un usuario común.
 
 <p align="center">
-    <img src="https://github.com/aoxlinux/aoxlinux.github.io/blob/master/screenshots/desktop.png" alt="desktop" width="80%" height="80%" />
+    <img src="https://raw.githubusercontent.com/aoxlinux/aoxlinux.github.io/master/screenshots/desktop.png" alt="desktop" width="80%" height="80%" />
 </p>
 
 ### Características:
@@ -18,7 +18,7 @@ Aox es una distribución Linux derivada de [Arch](https://archlinux.org/) para c
     - MEDIO: Unidad DVD o USB Pendrive para la imagen ISO.
 
 ### Descargar:
-&ensp; **[.iso Live CD/USB](https://github.com/olivaresa/aoxlinux/releases/download/v0.1-beta/aoxlinux-2022.02.13_v0_1-x86_64.iso)**
+&ensp; **[.iso Live CD/USB](https://github.com/aoxlinux/aoxlinux/releases/download/v0.1-beta/aoxlinux-2022.02.13_v0_1-x86_64.iso)**
 > - **_usuario:_** liveuser
 > - **_contraseña:_** liveuser
 
