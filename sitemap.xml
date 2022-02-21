@@ -4,4 +4,12 @@
     <loc>https://aoxlinux.xyz/</loc>
     <changefreq>always</changefreq>
   </url>
+  <url>
+    <loc>https://aoxlinux.xyz/screenshots</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://aoxlinux.xyz/download</loc>
+    <changefreq>always</changefreq>
+  </url>
 </urlset>

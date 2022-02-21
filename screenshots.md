@@ -1,7 +1,3 @@
----
-layout: clean
----
-
 ## Capturas de pantalla
 
 ### Escritorio XFCE
