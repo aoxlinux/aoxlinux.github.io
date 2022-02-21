@@ -1,8 +1,13 @@
 Aox es una distribución Linux derivada de [Arch](https://archlinux.org/) para computadoras [x86_64](https://es.wikipedia.org/wiki/X86-64), su principal objetivo es brindar un escritorio de trabajo limpio con aplicaciones necesarias para un usuario común.
 
+<p align="center" style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 20px; color: #474747;">
+    <strong>«</strong> <a href="./screenshots" title="Capturas de pantalla"><strong>Capturas</strong></a>  <strong>|</strong>  <a href="./download" title="Descargar"><strong>Descargar</strong></a> <strong>»</strong>
+</p>
+
 <p align="center">
     <img src="https://aoxlinux.xyz/screenshots/aoxlinux.png" alt="desktop" width="80%" height="80%" />
 </p>
+
 
 ### Características:
     - Instalador gráfico - Live CD/USB ISO.
@@ -16,19 +21,3 @@ Aox es una distribución Linux derivada de [Arch](https://archlinux.org/) para c
     - DISCO: 8gb de espacio.
     - MONITOR: Pantalla VGA con resolución  1024x768.
     - MEDIO: Unidad DVD o USB Pendrive para la imagen ISO.
-
-### Descargar:
-&ensp; **[.iso Live CD/USB](https://github.com/aoxlinux/aoxlinux/releases/download/v0.1-beta/aoxlinux-2022.02.13_v0_1-x86_64.iso)**
-> - **_usuario:_** liveuser
-> - **_contraseña:_** liveuser
-
-### Capturas de pantalla
-![menu](screenshots/menu.png)
-
-![install](screenshots/install.png)
-
-![apps](screenshots/apps.png)
-
-![apps](screenshots/config.png)
-
-![mem](screenshots/mem.png)
