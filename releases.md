@@ -1,5 +1,6 @@
 ## v0.1-beta Pre-release - 13 Feb 2022
 ### Características:
+  - Administrador de pantalla Lightdm.
   - Gestor de escritorio Xfce (X11) y gestor de ventanas Sway (Wayland).
   - Instalador gráfico Calamares.
   - Gestor gráfico de aplicaciones Pamac.
