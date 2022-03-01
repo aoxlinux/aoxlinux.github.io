@@ -5,13 +5,13 @@ Aox es una distribución Linux derivada de [Arch](https://archlinux.org/) para c
     <img src="https://aoxlinux.xyz/screenshots/aoxlinux.png" alt="desktop" width="80%" height="80%" />
 </p>
 <p align="center" style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 18px; color: #474747;">
-    <strong>«</strong> 
+    <strong>.:</strong> 
     <a href="./screenshots" title="Capturas de pantalla"><strong>Capturas</strong></a>  
     <strong>|</strong>  
     <a href="./download" title="Descargar"><strong>Descargar</strong></a> 
     <strong>|</strong>  
     <a href="./releases" title="Versiones"><strong>Versiones</strong></a> 
-    <strong>»</strong>
+    <strong>:.</strong>
 </p>
 
 ### Características:
