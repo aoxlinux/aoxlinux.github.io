@@ -1,6 +1,6 @@
 ## v0.2-beta Pre-release - 26 May 2022
 ### Paquetes:
-- Añade paquetes de utilidad para la compresión de archivos.
+- Actualizados al 26 de Mayo de 2022.
 
 ### Archivos
 - [aoxlinux-2022.02.28_v0_2-x86_64.iso](https://github.com/aoxlinux/aoxlinux/releases/download/v0.2-beta-may-2022/aoxlinux-2022.05.26_v0_2-x86_64.iso)
